@@ -3,6 +3,7 @@ website: "Portal Institucional do Município de Oeiras"          # Entre as aspa
 date: "29/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.oeiras.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.oeiras.pt/declaracao-de-acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+a11y_statement_date: "20/01/2026"  # Entre as aspas escreve a data da Declaração de Acessibilidade
 owner: "Município de Oeiras"         # Entre as aspas escrever o nome do owner do website
 seal: "Bronze"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
