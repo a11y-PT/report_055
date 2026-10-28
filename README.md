@@ -6,8 +6,8 @@ a11y_statement: "https://www.oeiras.pt/declaracao-de-acessibilidade" # Entre as 
 a11y_statement_date: "20/01/2026"  # Entre as aspas escreve a data da Declaração de Acessibilidade
 owner: "Município de Oeiras"         # Entre as aspas escrever o nome do owner do website
 seal: "Bronze"                          # Entre as aspas escreve Bronze, Prata ou Ouro
-validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
-status: "A aguardar correções da entidade" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
+validity: "28/10/2026 a 28/10/2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
+status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
 # Relatório de auditoria
@@ -31,6 +31,7 @@ Consulte aqui a última atualização: [Relatório {{ page.website }}](report.ht
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
     <li><a href="20052026_report.html">(20/05/2026). Relatório {{ page.website }}</a></li>
+    <li><a href="28102026_report.html">(28/10/2026). Relatório {{ page.website }}</a></li>
   </ul>
 </details>
 
